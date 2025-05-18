@@ -10,16 +10,16 @@ The analyses were conducted in **R** and emphasize a blend of experimental and q
 
 | File | Title | Key Methods |
 |------|-------|-------------|
-| Assignment_1.pdf | Reddit Gold Experiment & Balsakhi Education Program | T-tests, Linear Regression |
-| Homework-2.pdf | Digital Ad Attribution at Star Digital | Logistic Regression, Power Analysis, Cost-Effectiveness |
-| Assignment_3.pdf | Natural Experiment: Google Ad Suspension | Difference-in-Differences |
-| Homework-4.pdf | Directed Search, Policy Intervention, and Ad Ranking | Propensity Score Matching, Synthetic Control, Regression Discontinuity |
+| Assignment-1.pdf | Reddit Gold Experiment & Balsakhi Education Program | T-tests, Linear Regression |
+| Assignment-2.pdf | Digital Ad Attribution at Star Digital | Logistic Regression, Power Analysis, Cost-Effectiveness |
+| Assignment-3.pdf | Natural Experiment: Google Ad Suspension | Difference-in-Differences |
+| Assignment-4.pdf | Directed Search, Policy Intervention, and Ad Ranking | Propensity Score Matching, Synthetic Control, Regression Discontinuity |
 
 ---
 
 ## Assignment Summaries
 
-### Assignment 1 – Experimental and Observational Inference
+### Assignment-1 – Experimental and Observational Inference
 
 **Part 1: Reddit Gold Experiment**  
 We tested whether receiving Reddit Gold causally increases user posting behavior. After confirming covariate balance using t-tests across tenure, premium user status, and post history, we fit linear models to test treatment effects. We also examined interaction effects for new users and assessed the plausibility of SUTVA.
@@ -29,7 +29,7 @@ Using education data from Indian schools, we tested the impact of the Balsakhi t
 
 ---
 
-### Homework 2 – Digital Advertising Effectiveness
+### Assignment-2 – Digital Advertising Effectiveness
 
 **Context:** Star Digital wanted to measure the effect of online display advertising on user purchases across six websites.
 
@@ -40,7 +40,7 @@ Using education data from Indian schools, we tested the impact of the Balsakhi t
 
 ---
 
-### Assignment 3 – Difference-in-Differences (DiD) on Google Ads
+### Assignment-3 – Difference-in-Differences (DiD) on Google Ads
 
 **Context:** A technical glitch halted Google’s branded search ads for three weeks.
 
@@ -51,7 +51,7 @@ Using education data from Indian schools, we tested the impact of the Balsakhi t
 
 ---
 
-### Homework 4 – Multi-Method Causal Inference
+### Assignment-4 – Multi-Method Causal Inference
 
 **Question 1: Directed Search & Sales (Propensity Score Matching)**  
 We tested whether directed search behavior (e.g., users with intent) leads to higher sales. Using PSM on behavioral and demographic variables, we found:
